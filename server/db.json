@@ -1,0 +1,109 @@
+{
+ "users": [
+  {
+   "id": "4046f922-aed0-4ffe-86a1-c9b3a6bde48f",
+   "name": "Eslam Hamada",
+   "email": "eh744272@gmail.com",
+   "phone": "01017425527",
+   "address": "",
+   "city": "",
+   "hash": "$2a$10$ivNQJb2Zug2mW1sKVXGgsuITIyrao6Kq8jgIk/8CB.zzoiAUKRgse",
+   "google": false,
+   "avatarColor": "#e0662f"
+  }
+ ],
+ "orders": [
+  {
+   "id": "NT-63358",
+   "userId": "4046f922-aed0-4ffe-86a1-c9b3a6bde48f",
+   "customer": {
+    "name": "Eslam Hamada",
+    "phone": "01017425527",
+    "address": "ىشسق ؤهفغ",
+    "city": "القاهرة"
+   },
+   "items": [
+    {
+     "id": "classic",
+     "ar": "دفتر كلاسيكي",
+     "qty": 2,
+     "color": "#FE00AE",
+     "price": 145
+    },
+    {
+     "id": "classic",
+     "ar": "دفتر كلاسيكي",
+     "qty": 1,
+     "color": "#1f6f5c",
+     "price": 145
+    },
+    {
+     "id": "lined",
+     "ar": "دفتر مسطّر",
+     "qty": 1,
+     "color": "#FE00AE",
+     "price": 120
+    },
+    {
+     "id": "lined",
+     "ar": "دفتر مسطّر",
+     "qty": 2,
+     "color": "#252525",
+     "price": 120
+    }
+   ],
+   "subtotal": 795,
+   "shipping": 0,
+   "total": 795,
+   "method": "cod",
+   "transferRef": null,
+   "status": "received",
+   "pay": "pending",
+   "createdAt": "2026-10-03T12:55:48.125Z"
+  },
+  {
+   "id": "NT-64819",
+   "userId": "4046f922-aed0-4ffe-86a1-c9b3a6bde48f",
+   "customer": {
+    "name": "Eslam Hamada",
+    "phone": "01017425527",
+    "address": "ىشسق ؤهفغ",
+    "city": "القاهرة"
+   },
+   "items": [
+    {
+     "id": "journal",
+     "ar": "دفتر يوميات",
+     "qty": 1,
+     "color": "#8a2f3d",
+     "price": 165
+    }
+   ],
+   "subtotal": 165,
+   "shipping": 40,
+   "total": 205,
+   "method": "cod",
+   "transferRef": null,
+   "status": "shipped",
+   "pay": "pending",
+   "createdAt": "2026-10-03T12:58:44.561Z"
+  }
+ ],
+ "messages": [],
+ "stock": {
+  "classic": 17,
+  "lined": 17,
+  "journal": 19,
+  "meeting": 20,
+  "interview": 0,
+  "todo": 20,
+  "daily": 20,
+  "weekly": 20,
+  "monthly": 20,
+  "project": 20,
+  "sketch": 20,
+  "grid": 20,
+  "creative": 20,
+  "idea": 20
+ }
+}

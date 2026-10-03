@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/shop</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/story</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/contact</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/track</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/returns</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/privacy</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/shop/write</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/shop/plan</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/shop/create</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/classic</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/lined</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/journal</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/meeting</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/interview</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/todo</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/daily</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/weekly</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/monthly</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/project</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/sketch</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/grid</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/creative</loc></url>
+  <url><loc>https://YOUR-DOMAIN.example/product/idea</loc></url>
+</urlset>

@@ -1,0 +1,72 @@
+{
+ "classic": {
+  "ar": "دفتر كلاسيكي",
+  "price": 145,
+  "stock": true
+ },
+ "lined": {
+  "ar": "دفتر مسطّر",
+  "price": 120,
+  "stock": true
+ },
+ "journal": {
+  "ar": "دفتر يوميات",
+  "price": 165,
+  "stock": true
+ },
+ "meeting": {
+  "ar": "دفتر اجتماعات",
+  "price": 150,
+  "stock": true
+ },
+ "interview": {
+  "ar": "دفتر مقابلات",
+  "price": 150,
+  "stock": false
+ },
+ "todo": {
+  "ar": "دفتر المهام",
+  "price": 110,
+  "stock": true
+ },
+ "daily": {
+  "ar": "مخطّط يومي",
+  "price": 185,
+  "stock": true
+ },
+ "weekly": {
+  "ar": "مخطّط أسبوعي",
+  "price": 170,
+  "stock": true
+ },
+ "monthly": {
+  "ar": "مخطّط شهري",
+  "price": 160,
+  "stock": true
+ },
+ "project": {
+  "ar": "دفتر المشاريع",
+  "price": 175,
+  "stock": true
+ },
+ "sketch": {
+  "ar": "دفتر رسم",
+  "price": 190,
+  "stock": true
+ },
+ "grid": {
+  "ar": "دفتر شبكي",
+  "price": 135,
+  "stock": true
+ },
+ "creative": {
+  "ar": "دفتر إبداعي",
+  "price": 155,
+  "stock": true
+ },
+ "idea": {
+  "ar": "دفتر أفكار",
+  "price": 125,
+  "stock": true
+ }
+}
